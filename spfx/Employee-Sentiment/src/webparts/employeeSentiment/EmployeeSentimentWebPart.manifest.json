@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "7e4f4979-76a2-4d65-8209-e1b157aebfee",
+  "alias": "EmployeeSentimentWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "7e4f4979-76a2-4d65-8209-e1b157aebfee",
+    "group": { "default": "Under Development" },
+    "title": { "default": "EmployeeSentiment" },
+    "description": { "default": "Aggreegates sentiment of employees over time" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "EmployeeSentiment"
+    }
+  }]
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sentiment-anlysis-client-side-solution",
+    "id": "35172a6b-edd6-41cd-8cb7-66e8252a1009",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sentiment-anlysis.sppkg"
+  }
+}

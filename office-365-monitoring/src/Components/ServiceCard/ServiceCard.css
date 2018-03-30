@@ -1,0 +1,11 @@
+.card-content {
+    background: #f9f9f9 !important;
+}
+
+.card-content-extra {
+    background: #0078d7;
+}
+
+.card-content-extra > a {
+    color: white !important;
+}

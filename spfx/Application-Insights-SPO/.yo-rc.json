@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "application-insights-spo",
+    "libraryId": "63d69419-8a90-4565-b453-4c4e8c3bca5a",
+    "environment": "spo"
+  }
+}

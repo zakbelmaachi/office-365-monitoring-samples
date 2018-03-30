@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/employeeSentiment/EmployeeSentimentWebPart.js",
+      "manifest": "./src/webparts/employeeSentiment/EmployeeSentimentWebPart.manifest.json",
+      "outputPath": "./dist/employee-sentiment.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "employeeSentimentStrings": "webparts/employeeSentiment/loc/{locale}.js"
+  }
+}

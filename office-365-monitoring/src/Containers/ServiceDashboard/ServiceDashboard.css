@@ -1,0 +1,15 @@
+.sk-circle {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin: 15% auto;
+    color: #2b88d8
+}
+
+.service-container {
+    padding: 2%;
+}
+
+.service-container-header{
+    margin: 4% 0% 2% 0% !important;
+}

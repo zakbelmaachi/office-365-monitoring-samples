@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "sentiment-anlysis",
+    "framework": "none",
+    "version": "1.0.2",
+    "libraryId": "35172a6b-edd6-41cd-8cb7-66e8252a1009"
+  }
+}
